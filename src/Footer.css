@@ -1,0 +1,44 @@
+.footer {
+  width: 80%;
+  height: 100%;
+  margin-left: 9vw;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.container {
+  background-color: rgb(37, 36, 36);
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.part1{
+    width: 45vw;
+    margin-top: 20vh;
+}
+
+.part1 h1{
+    color: blue;
+}
+
+.part22 ul {
+    display: flex;
+    flex-direction: column;
+}
+
+.part22{
+  margin-top: 20vh;
+}
+
+.part333{
+  margin-top: 20vh;
+}
+
+.co{
+  font-size: 8px;
+}

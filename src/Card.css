@@ -1,0 +1,19 @@
+.card{
+    width: 285px;
+    height: 350px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    background-color: rgb(234, 217, 217);
+    border-radius: 25px;
+}
+
+.item-button{
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+    border-radius: 25px;
+}
+
+.card img{
+    border-radius: 25px;
+}

@@ -1,0 +1,30 @@
+.contact{
+    margin-left: 9vw;
+    display: flex;
+    flex-direction: column;
+    padding: 88px;
+}
+
+.contactData{
+    border: 2px solid black;
+    border-radius: 5px;
+    outline: none;
+    height: 40px;
+    padding: 5px;
+}
+
+#prob{
+    height: 100px;
+    padding: 5px;
+}
+
+.contactSubmit{
+    width: 100px;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: blue;
+    color: black;
+    border: 2px solid black;
+    border-radius: 20px;
+
+}
